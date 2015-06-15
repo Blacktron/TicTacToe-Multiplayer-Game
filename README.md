@@ -18,4 +18,4 @@ In order to complete this task I used SWING, Multithreading and Sockets.
 ### Tools Used ###
 
 * JDK 1.7
-* IntelliJ IDEA 13
+* NetBeans 7
