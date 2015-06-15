@@ -12,6 +12,9 @@ This is a project I made given as task from the university courses.
 
 - - -
 
+In order to complete this task I used SWING, Multithreading and Sockets.
+
+- - -
 ### Tools Used ###
 
 * JDK 1.7
